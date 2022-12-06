@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 body {
-  background: url("/images/bg-desktop.png") top 40vh left 0vw, hsl(229, 57%, 11%);
+  background: url("images/bg-desktop.png") top 40vh left 0vw, hsl(229, 57%, 11%);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -110,7 +110,7 @@ main {
 }
 @media (max-width: 500px) {
   body {
-   background: url("/images/bg-desktop.png") ,
+   background: url("images/bg-desktop.png") ,
     hsl(229, 57%, 11%);
     background-size: cover;
     background-repeat: no-repeat;
